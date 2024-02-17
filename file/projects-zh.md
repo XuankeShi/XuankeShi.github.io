@@ -95,9 +95,9 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
   <img src = "https://xuankeshi.github.io/images/projects/avatar_boy.gif">
 </div>
 
-<div align=center>
+<!-- <div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/avatar_hanmeimei_girl.gif">
-</div>
+</div> -->
 
 <br>
 

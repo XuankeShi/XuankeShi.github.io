@@ -77,20 +77,19 @@ Avatar automatically pinches faces and automatically generates blendshape. Note 
 <iframe width="768" height="512" src="/images/projects/avatar_boy.mp4" frameborder="0" allowfullscreen> </iframe>
 </div> -->
 
-<!-- <div align=center>
-  <iframe width="600" height="400"  src="/images/projects/avatar_girl.mp4" frameborder="0" allowfullscreen> </iframe>
-</div> -->
 <div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/avatar_girl.gif">
 </div>
+
+<br>
 
 <div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/avatar_boy.gif">
 </div>
 
-<div align=center>
+<!-- <div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/avatar_hanmeimei_girl.gif">
-</div>
+</div> -->
 
 <br>
 
