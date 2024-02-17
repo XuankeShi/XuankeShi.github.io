@@ -81,9 +81,11 @@ Avatar automatically pinches faces and automatically generates blendshape. Note 
   <iframe width="600" height="400"  src="/images/projects/avatar_girl.mp4" frameborder="0" allowfullscreen> </iframe>
 </div>
 
-<!-- <div align=center>
-<iframe width="768" height="512" src="/images/projects/avatar_cartoon.mp4" frameborder="0" allowfullscreen> </iframe>
-</div> -->
+<br>
+
+<div align=center>
+<iframe width="600" height="265" src="/images/projects/blendshape.mp4" frameborder="0" allowfullscreen> </iframe>
+</div>
 
 <br>
 
