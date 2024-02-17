@@ -60,6 +60,14 @@ This project converts the given image into a 3D cartoon avatar.
 
 <br>
 
+## Avatar Head Pose Estimation
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/pose_estimation.gif">
+</div>
+
+<br>
+
 ## Avatar Auto-Creation and Blendshape Generation
 
 Avatar automatically pinches faces and automatically generates blendshape. Note that there is no requirement for the topology of the model.

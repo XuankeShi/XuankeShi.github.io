@@ -65,6 +65,14 @@ title: Publications-zh
 
 <br>
 
+## Avatar 头部姿态估计
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/pose_estimation.gif">
+</div>
+
+<br>
+
 ## Avatar 自动创建和 Blendshape 生成
 
 Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没有要求
