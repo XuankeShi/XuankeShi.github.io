@@ -130,8 +130,8 @@ This project is about object 6-DOF estimation and robotics manipulation.The proj
 <br>
 
 <div align=center>
-  <!-- <img src = "https://xuankeshi.github.io/images/projects/manipulation.gif"> -->
-  <iframe width="600" height="326"  src="/images/projects/manipulation.mp4" frameborder="0" allowfullscreen> </iframe>
+  <img src = "https://xuankeshi.github.io/images/projects/manipulation.gif">
+  <!-- <iframe width="600" height="326"  src="/images/projects/manipulation.mp4" frameborder="0" allowfullscreen> </iframe> -->
 </div>
 
 <br>

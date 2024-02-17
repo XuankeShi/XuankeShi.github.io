@@ -137,7 +137,8 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 <br>
 
 <div align=center >
-  <iframe width="600" height="326" src="/images/projects/manipulation.mp4" frameborder="0" allowfullscreen> </iframe>
+  <img src = "https://xuankeshi.github.io/images/projects/manipulation.gif">
+  <!-- <iframe width="600" height="326" src="/images/projects/manipulation.mp4" frameborder="0" allowfullscreen> </iframe> -->
 </div>
 
 <br>
