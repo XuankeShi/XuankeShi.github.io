@@ -92,7 +92,8 @@ Avatar automatically pinches faces and automatically generates blendshape. Note 
 A real-time body depth completion for AR Effect 
 
 <div align=center>
-  <iframe width="600" height="225"  src="/images/projects/tof_ar.mp4" frameborder="0" allowfullscreen> </iframe>
+  <img src = "https://xuankeshi.github.io/images/projects/tof_ar.gif">
+  <!-- <iframe width="600" height="225"  src="/images/projects/tof_ar.mp4" frameborder="0" allowfullscreen> </iframe> -->
 </div>
 
 <br>

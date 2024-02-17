@@ -108,7 +108,8 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 一种基于人体深度补全的AR特效 
 
 <div align=center>
-  <iframe width="600" height="225"  src="/images/projects/tof_ar.mp4" frameborder="0" allowfullscreen> </iframe>
+  <img src = "https://xuankeshi.github.io/images/projects/tof_ar.gif">
+  <!-- <iframe width="600" height="225"  src="/images/projects/tof_ar.mp4" frameborder="0" allowfullscreen> </iframe> -->
 </div>
 
 <br>
