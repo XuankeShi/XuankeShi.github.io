@@ -83,12 +83,25 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 <iframe width="768" height="512" src="/images/projects/avatar_boy.mp4" frameborder="0" allowfullscreen> </iframe>
 </div> -->
 
-<div align=center>
+<!-- <div align=center>
   <iframe width="600" height="400" src="/images/projects/avatar_girl.mp4" frameborder="0" allowfullscreen> </iframe>
+</div> -->
+
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/avatar_girl.gif">
+</div>
+
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/avatar_boy.gif">
+</div>
+
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/avatar_hanmeimei_girl.gif">
 </div>
 
 <br>
 
+视频驱动生成的形象． 请注意，blendshape动画无任何穿模现象
 <div align=center>
 <iframe width="600" height="265" src="/images/projects/blendshape.mp4" frameborder="0" allowfullscreen> </iframe>
 </div>
