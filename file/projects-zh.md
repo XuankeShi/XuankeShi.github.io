@@ -67,7 +67,9 @@ title: Publications-zh
 
 ## Avatar 头部姿态估计
 
-<div align=right>
+该项目估计视频中的人物头部姿态，保证avatar姿态平稳连续
+
+<div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/pose_estimation.gif">
 </div>
 

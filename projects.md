@@ -62,7 +62,8 @@ This project converts the given image into a 3D cartoon avatar.
 
 ## Avatar Head Pose Estimation
 
-<div align=right>
+This project estimates the head pose of the person in the video and ensure the obtained head pose accurate and smooth.
+<div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/pose_estimation.gif">
 </div>
 
