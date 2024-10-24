@@ -132,7 +132,7 @@ We used this technology to reproduce the talk show performance of Professor Tang
 </div>
 
 <div align=center>
-Keep moving forward, don't look back.
+  Look forward, don't look back.
 </div>
 
 <br>
