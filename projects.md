@@ -137,6 +137,15 @@ We used this technology to reproduce the talk show performance of Professor Tang
 
 <br>
 
+
+## VIMI: Controllable character video generation
+Given a reference image, action video and expression video, generate the corresponding video of the reference image.
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
+</div>
+
+<br>
+
 ## 3D Vison and Robotics
 
 This project is about object 6-DOF estimation and robotics manipulation.The project has been going on for too long, so I just selected some remaining drawings.

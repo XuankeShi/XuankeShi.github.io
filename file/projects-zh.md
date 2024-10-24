@@ -133,6 +133,14 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 
 <br>
 
+## VIMI: 可控人物视频生成
+给定参考图,参考动作视频, 生成参考图的动画视频
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
+</div>
+
+<br>
+
 ## 深度相机人体深度补全
 
 一种基于人体深度补全的AR特效 
