@@ -115,7 +115,7 @@ A real-time body depth completion for AR Effect
 ## Audio Driven Digital Human 
 Given text or audio, we generate the visual-audio synchronized 2D avatar. All parts of the head look natural when speaking without any weird mouth, teeth and nose movements.
 <div align=center>
-  <iframe width="600" height="356"  src="https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click&vd_source=a818c7172f71d8e955ff0881a2850d6a" frameborder="0" allowfullscreen  > </iframe>
+  <iframe src="https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click&vd_source=a818c7172f71d8e955ff0881a2850d6a" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  > </iframe>
   <!-- <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe> -->
 </div>
 
