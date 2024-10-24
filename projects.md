@@ -137,11 +137,16 @@ We used this technology to reproduce the talk show performance of Professor Tang
 
 <br>
 
-
 ## VIMI: Controllable character video generation
 Given a reference image, action video and expression video, generate the corresponding video of the reference image.
 <div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
+</div>
+
+<br>
+
+<div align=center>
+  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
 </div>
 
 <br>

@@ -141,6 +141,12 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 
 <br>
 
+<div align=center>
+  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
+</div>
+
+<br>
+
 ## 深度相机人体深度补全
 
 一种基于人体深度补全的AR特效 
