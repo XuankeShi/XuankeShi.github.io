@@ -127,7 +127,13 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
   <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
 </div>
 
-人生也是一样, 向前看, 别回头!
+<br>
+
+<div align=center>
+  人生也是一样, 向前看, 别回头!
+</div>
+
+<br>
 
 ## 深度相机人体深度补全
 

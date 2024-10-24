@@ -131,7 +131,11 @@ We used this technology to reproduce the talk show performance of Professor Tang
   <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
 </div>
 
+<br>
+
+<div align=center>
 Keep moving forward, don't look back.
+</div>
 
 <br>
 
