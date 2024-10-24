@@ -121,7 +121,7 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 <br>
 
 我们使用了这项技术还原了商汤科技创始人汤晓鸥的脱口秀表演 
-[完成视频链接](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
+[完整视频链接](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
 
 <div align=center>
   <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
