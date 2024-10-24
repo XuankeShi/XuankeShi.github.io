@@ -114,10 +114,32 @@ A real-time body depth completion for AR Effect
 
 ## Audio Driven Digital Human 
 Given text or audio, we generate the visual-audio synchronized 2D avatar. All parts of the head look natural when speaking without any weird mouth, teeth and nose movements.
+
 <div align=center>
-  <iframe src="https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click&vd_source=a818c7172f71d8e955ff0881a2850d6a" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  > </iframe>
-  <!-- <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe> -->
+  <!-- <iframe src="【商汤科技创始人汤晓鸥教授数字人现身商汤2024年年会，一段脱口秀让人泪目】 https://www.bilibili.com/video/BV1i2421K7aK/?share_source=copy_web&vd_source=e6d15634d446032fbcb719d509cdd92a" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  > </iframe> -->
+  <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe>
 </div>
+
+<br>
+We used this technology to reproduce the talk show performance of Professor Tang, the founder of SenseTime, at the annual meeting. 
+[Video Link](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo1.gif">
+</div>
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
+</div>
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo3.gif">
+</div>
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo4.gif">
+</div>
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo5.gif">
+</div>
+
+
 
 <br>
 
