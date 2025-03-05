@@ -117,6 +117,7 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 (a) 户外数字人
 (b) [视频翻译(HeyGen竞品)](https://www.heygen.com/translate)
 (c) 动态局部片段视频融合等
+(d) 端侧小模型
 
 <div align=center>
   <iframe width="600" height="356" src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen> </iframe>

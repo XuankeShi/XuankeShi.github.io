@@ -119,7 +119,7 @@ At the same time, as a core researcher, I independently completed
 (a) Outdoor digital humans
 (b) [Video translation as HeyGen's competitors](https://www.heygen.com/translate)
 (c) Dynamic local segment video fusion, etc.
-
+(d) Lightweight small model for mobile terminal
 <div align=center>
   <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe>
 </div>
