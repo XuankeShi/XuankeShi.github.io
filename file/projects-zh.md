@@ -113,6 +113,10 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 ## 语音驱动数字人 
 
 给定文本或音频，我们生成视音频同步的 2D 头像。说话时头部各部分看起来很自然，没有任何奇怪的嘴、牙齿和鼻子的动作.
+同时, 我作为核心研发, 独立完成了
+(a) 户外数字人
+(b) [视频翻译(HeyGen竞品)](https://www.heygen.com/translate)
+(c) 动态局部片段视频融合等
 
 <div align=center>
   <iframe width="600" height="356" src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen> </iframe>

@@ -115,6 +115,11 @@ A real-time body depth completion for AR Effect
 ## Audio Driven Digital Human 
 Given text or audio, we generate the visual-audio synchronized 2D avatar. All parts of the head look natural when speaking without any weird mouth, teeth and nose movements.
 
+At the same time, as a core researcher, I independently completed 
+(a) Outdoor digital humans
+(b) [Video translation as HeyGen's competitors](https://www.heygen.com/translate)
+(c) Dynamic local segment video fusion, etc.
+
 <div align=center>
   <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe>
 </div>
