@@ -9,17 +9,45 @@ title: Publications-zh
 # 项目
 <br>
 
-## 3D人脸重建
-
-单张照片3D人脸重建。
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/3dface.png">
+## VIMI: 可控人物视频生成
+给定参考图,参考动作视频, 生成参考图的动画视频
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
 </div>
 
-<br> 我用这种技术模拟了我外婆的人像。
+<br>
 
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/grandma.gif">
+<div align=center>
+  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
+</div>
+
+<br>
+
+
+## 语音驱动数字人 
+
+给定文本或音频，我们生成视音频同步的 2D 头像。说话时头部各部分看起来很自然，没有任何奇怪的嘴、牙齿和鼻子的动作.
+同时, 我作为核心研发, 独立完成了
+(a) 户外数字人
+(b) [视频翻译(HeyGen竞品)](https://www.heygen.com/translate)
+(c) 动态局部片段视频融合等
+(d) 端侧小模型
+
+<div align=center>
+  <iframe width="600" height="356" src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen> </iframe>
+</div>
+
+<br>
+
+我们使用了这项技术还原了商汤科技创始人汤晓鸥的脱口秀表演 
+[完整视频链接](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
+
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
+</div>
+
+<div align=center>
+  人生也是一样, 向前看, 别回头!
 </div>
 
 <br>
@@ -41,29 +69,6 @@ title: Publications-zh
 **作为第一个应用于冰壶比赛**的系统，**CurlingHunter**在**2022年北京冬奥会**冰壶赛和**2022年北京冬残奥会**冰壶赛上展现了出色的表现。尽管我们专注于冰壶运动，但我们的系统可以轻松转移到其他运动中。
 <br>
 
-## 人像风格化
-
-该项目将给定的图像转换为十几种不同的风格，同时保留输入者的特征：素描、美国漫画、漫画、油画、CG风格、迪士尼风格等。
-
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/face_style1.jpg">
-</div>
-
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/face_style2.jpeg">
-</div>
-
-<br>
-
-## 3D人脸卡通化
-
-该项目将给定图像转换为3D版本卡通形象
-
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/3d_cartoon.png">
-</div>
-
-<br>
 
 ## Avatar 头部姿态估计
 
@@ -110,47 +115,47 @@ Avatar自动捏脸并自动生成blendshape。请注意，对模型的拓扑没�
 
 <br>
 
-## 语音驱动数字人 
 
-给定文本或音频，我们生成视音频同步的 2D 头像。说话时头部各部分看起来很自然，没有任何奇怪的嘴、牙齿和鼻子的动作.
-同时, 我作为核心研发, 独立完成了
-(a) 户外数字人
-(b) [视频翻译(HeyGen竞品)](https://www.heygen.com/translate)
-(c) 动态局部片段视频融合等
-(d) 端侧小模型
+## 人像风格化
 
-<div align=center>
-  <iframe width="600" height="356" src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen> </iframe>
+该项目将给定的图像转换为十几种不同的风格，同时保留输入者的特征：素描、美国漫画、漫画、油画、CG风格、迪士尼风格等。
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/face_style1.jpg">
+</div>
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/face_style2.jpeg">
 </div>
 
 <br>
 
-我们使用了这项技术还原了商汤科技创始人汤晓鸥的脱口秀表演 
-[完整视频链接](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
+## 3D人脸卡通化
 
-<div align=center>
-  <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
-</div>
+该项目将给定图像转换为3D版本卡通形象
 
-<div align=center>
-  人生也是一样, 向前看, 别回头!
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/3d_cartoon.png">
 </div>
 
 <br>
 
-## VIMI: 可控人物视频生成
-给定参考图,参考动作视频, 生成参考图的动画视频
-<div align=center>
-  <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
+
+## 3D人脸重建
+
+单张照片3D人脸重建。
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/3dface.png">
+</div>
+
+<br> 我用这种技术模拟了我外婆的人像。
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/grandma.gif">
 </div>
 
 <br>
 
-<div align=center>
-  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
-</div>
-
-<br>
 
 ## 深度相机人体深度补全
 

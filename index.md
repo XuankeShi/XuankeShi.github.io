@@ -25,7 +25,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - 3D Face Reconstruction
-- AIGC e.g. GAN and Diffusion Model
+- AIGC e.g. GAN, Diffusion Model, Rectified Flow, VLM, MLLM, Unified Understanding and Generation
 - Robotics e.g. Grasping and Manipulation tasks, 3D Vision, Bin-Picking
 
 

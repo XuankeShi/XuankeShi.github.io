@@ -8,19 +8,51 @@ Lastest Update: 18th Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://xu
 # Projects
 <br>
 
-## 3D Face Reconstruction
-3D face reconstruction from a singe photo.
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/3dface.png">
-</div>
-
-<br>And I modeled my grandma's face using this technique.
-
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/grandma.gif">
+## VIMI: Controllable character video generation
+Given a reference image, action video and expression video, generate the corresponding video of the reference image.
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
 </div>
 
 <br>
+
+<div align=center>
+  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
+</div>
+
+<br>
+
+
+## Audio Driven Digital Human 
+Given text or audio, we generate the visual-audio synchronized 2D avatar. All parts of the head look natural when speaking without any weird mouth, teeth and nose movements.
+
+At the same time, as a core researcher, I independently completed 
+(a) Outdoor digital humans
+(b) [Video translation as HeyGen's competitors](https://www.heygen.com/translate)
+(c) Dynamic local segment video fusion, etc.
+(d) Lightweight small model for mobile terminal
+<div align=center>
+  <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe>
+</div>
+
+<br>
+
+We used this technology to reproduce the talk show performance of Professor Tang, the founder of SenseTime, at the annual meeting. 
+[Video Link](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
+
+<!-- <div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo1.gif">
+</div> -->
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
+</div>
+
+<div align=center>
+  Look forward, don't look back.
+</div>
+
+<br>
+
 
 ## CurlingHunter
 A multi-target multi-camera curling tracking system, termed [CurlingHunter](https://spj.science.org/doi/full/10.34133/2022/9805054), is proposed, which can be applied in actual curling games in real time to assist athletes to compete, enhance the interest of the game, etc. Due to the regulations of curling game, no auxiliary equipment can be added to the curling stones, hence only non-contact measurement methods such as machine vision can be used in CurlingHunter. CurlingHunter has solved these problems:
@@ -38,27 +70,6 @@ A multi-target multi-camera curling tracking system, termed [CurlingHunter](http
 **As the first system to be applied to curling game**, **CurlingHunter** demonstrated excellent performances in **2022 Beijing Winter Olympic Games** of curling and **2022 Beijing Winter Paralympic Games** of curling. Although we focus on curling, our system is readily transferable to other sports.
 <br>
 
-## Face Stylization
-
-This project converts the given image into a dozen of different styles while keeping the characteristics of the input person: Sketch, American Comic, Manga, Oil painting, CG style, Disney style, etc..
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/face_style1.jpg">
-</div>
-
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/face_style2.jpeg">
-</div>
-
-<br>
-
-## 3D Face Cartoonization
-
-This project converts the given image into a 3D cartoon avatar.
-<div align=right>
-  <img src = "https://xuankeshi.github.io/images/projects/3d_cartoon.png">
-</div>
-
-<br>
 
 ## Avatar Head Pose Estimation
 
@@ -101,6 +112,44 @@ Generated avatar is driven by video. Please note that the generated blendshape d
 
 <br>
 
+
+## Face Stylization
+
+This project converts the given image into a dozen of different styles while keeping the characteristics of the input person: Sketch, American Comic, Manga, Oil painting, CG style, Disney style, etc..
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/face_style1.jpg">
+</div>
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/face_style2.jpeg">
+</div>
+
+<br>
+
+## 3D Face Cartoonization
+
+This project converts the given image into a 3D cartoon avatar.
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/3d_cartoon.png">
+</div>
+
+<br>
+
+
+## 3D Face Reconstruction
+3D face reconstruction from a singe photo.
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/3dface.png">
+</div>
+
+<br>And I modeled my grandma's face using this technique.
+
+<div align=right>
+  <img src = "https://xuankeshi.github.io/images/projects/grandma.gif">
+</div>
+
+<br>
+
 ## ToF Body Depth Completation
 
 A real-time body depth completion for AR Effect 
@@ -112,49 +161,6 @@ A real-time body depth completion for AR Effect
 
 <br>
 
-## Audio Driven Digital Human 
-Given text or audio, we generate the visual-audio synchronized 2D avatar. All parts of the head look natural when speaking without any weird mouth, teeth and nose movements.
-
-At the same time, as a core researcher, I independently completed 
-(a) Outdoor digital humans
-(b) [Video translation as HeyGen's competitors](https://www.heygen.com/translate)
-(c) Dynamic local segment video fusion, etc.
-(d) Lightweight small model for mobile terminal
-<div align=center>
-  <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe>
-</div>
-
-<br>
-
-We used this technology to reproduce the talk show performance of Professor Tang, the founder of SenseTime, at the annual meeting. 
-[Video Link](https://www.bilibili.com/video/BV1jF4m1L7rk/?spm_id_from=333.337.search-card.all.click)
-
-<!-- <div align=center>
-  <img src = "https://xuankeshi.github.io/images/projects/txo1.gif">
-</div> -->
-<div align=center>
-  <img src = "https://xuankeshi.github.io/images/projects/txo2.gif">
-</div>
-
-<div align=center>
-  Look forward, don't look back.
-</div>
-
-<br>
-
-## VIMI: Controllable character video generation
-Given a reference image, action video and expression video, generate the corresponding video of the reference image.
-<div align=center>
-  <img src = "https://xuankeshi.github.io/images/projects/vimi.gif">
-</div>
-
-<br>
-
-<div align=center>
-  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
-</div>
-
-<br>
 
 ## 3D Vison and Robotics
 
