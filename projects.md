@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/index.html
 title: Projects
 ---
-Lastest Update: 18th Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://xuankeshi.github.io/file/projects-zh/)
+Lastest Update: 18th Jan 2025&nbsp;  [中文版本 (Chinese Version)](https://xuankeshi.github.io/file/projects-zh/)
 
 # Projects
 <br>

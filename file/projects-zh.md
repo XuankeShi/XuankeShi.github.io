@@ -4,7 +4,7 @@ permalink: /file/projects-zh/index.html
 title: Publications-zh
 ---
 
-更新时间：2024/01/18 &nbsp;  [English Version (英文)](https://xuankeshi.github.io/projects/)
+更新时间：2025/01/18 &nbsp;  [English Version (英文)](https://xuankeshi.github.io/projects/)
 
 # 项目
 <br>
