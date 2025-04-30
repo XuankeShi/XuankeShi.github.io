@@ -30,7 +30,7 @@ title: Publications-zh
 同时, 我作为核心研发, 独立完成了
 (a) 户外数字人
 (b) [视频翻译(HeyGen竞品)](https://www.heygen.com/translate)
-(c) 动态局部片段视频融合等
+(c) 动态局部片段视频融合
 (d) 端侧小模型
 
 <div align=center>
