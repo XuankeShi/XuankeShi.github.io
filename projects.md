@@ -23,7 +23,7 @@ Given a reference image, action video and expression video, generate the corresp
 <br>
 
 
-## Audio Driven Digital Human 
+## [SenseAvatar](https://senseavatar.sensetime.com/)
 Given text or audio, we generate the visual-audio synchronized 2D avatar. All parts of the head look natural when speaking without any weird mouth, teeth and nose movements.
 
 At the same time, as a core researcher, I independently completed 
