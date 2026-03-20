@@ -6,7 +6,16 @@ title: Projects
 Lastest Update: 18th Jan 2025&nbsp;  [中文版本 (Chinese Version)](https://xuankeshi.github.io/file/projects-zh/)
 
 # Projects
+
 <br>
+
+## [ConsistCompose](https://opensensenova.github.io/ConsistCompose/)
+We propose ConsistCompose : a novel unified paradigm for multimodal layout control in image composition, which integrates text prompts, reference content, and spatial constraints into a single model to solve layout distortion and identity leakage issues.
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/consistcompose.jpg">
+</div>
+<br>
+
 
 ## VIMI: Controllable character video generation
 Given a reference image, action video and expression video, generate the corresponding video of the reference image.

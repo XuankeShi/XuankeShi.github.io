@@ -4,7 +4,10 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Journal Paper
+## Paper
+
+- [ConsistCompose:Unified Multimodal Layout Control for Image Composition](https://arxiv.org/abs/2511.18333v3) <br>**Xuanke Shi**, Boxuan Li, Xiaoyang Han, Zhongang Cai, Lei Yang, Quan Wang, Dahua Lin<br> 
+[CVPPR2026](https://cvpr.thecvf.com/Conferences/2026) The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 <br>
 
 - [An AI-Based Curling Game System for Winter Olympics](https://spj.science.org/doi/full/10.34133/2022/9805054) <br>**Xuanke Shi**, Quan Wang, Chao Wang, Rui Wang, Longshu Zheng, Chen Qian, Wei Tang<br>[Research](https://spj.science.org/journal/research), Science Partner Journal<br>
 

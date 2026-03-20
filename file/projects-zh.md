@@ -9,6 +9,16 @@ title: Publications-zh
 # 项目
 <br>
 
+
+## [ConsistCompose](https://opensensenova.github.io/ConsistCompose/)
+我们提出 **ConsistCompose**：一种面向图像合成的全新统一多模态布局控制范式，将文本提示、参考内容与空间约束整合到单一模型中，有效解决多模态可控生成问题。
+
+<div align=center>
+  <img src = "https://xuankeshi.github.io/images/projects/consistcompose.jpg">
+</div>
+
+<br>
+
 ## VIMI: 可控人物视频生成
 给定参考图,参考动作视频, 生成参考图的动画视频
 <div align=center>

@@ -39,5 +39,6 @@ My current research focuses on AIGC. I wish to devote my talent to this meaningf
 
 - **Dec 2022：**As the core contributor, I participated in development of [CurlingHunter](https://curlinghunter.github.io/jekyll/update/2022/10/22/CurlingHunter.html) which is the first real-time MTMCT system in history of Winter Olympics.
 - **Dec 2023：**As the core contributor, i participated in the research of [SenseAvatar](https://senseavatar.sensetime.com/) and finish the audio driven talking head generation algorithm.
+- **Dec 2025：**As the core contributor, i participated in the research of [ConsistCompose](https://opensensenova.github.io/ConsistCompose/) and propose a new paradigm for unified multimodal layout control for image composition.
 
 <br>
