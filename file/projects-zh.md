@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: academic
 permalink: /file/projects-zh/index.html
-title: Publications-zh
+title: Projects-zh
 ---
 
 更新时间：2026/07/11 &nbsp;  [English Version (英文)](https://xuankeshi.github.io/projects/)

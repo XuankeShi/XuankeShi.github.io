@@ -65,6 +65,7 @@ layout: academic
   <div class="academic-news-list">
     <p><time datetime="2026-07">Jul 2026</time><span>Released <a href="https://arxiv.org/abs/2607.06560">Vision as Unified Multimodal Generation</a> and the SenseNova-Vision model and corpus.</span></p>
     <p><time datetime="2026-06">Jun 2026</time><span><a href="https://opensensenova.github.io/ConsistCompose/">ConsistCompose</a> was accepted by CVPR 2026.</span></p>
+    <p><time datetime="2024-07">Jul 2024</time><span><a href="https://www.sensetime.com/cn/product-detail?categoryId=51134571&amp;scene=2%2Fscene.xhtmls">Vimi</a>, SenseTime's controllable character video generation model, was selected as one of <a href="https://m.c114.com.cn/w13-1267456.html">WAIC 2024's “Eight Treasures”</a>.</span></p>
     <p><time datetime="2023-12">Dec 2023</time><span>Contributed to <a href="https://senseavatar.sensetime.com/">SenseAvatar</a> and developed its audio-driven talking-head generation algorithm.</span></p>
     <p><time datetime="2022-10">Oct 2022</time><span>Published the <a href="https://curlinghunter.github.io/jekyll/update/2022/10/22/CurlingHunter.html">CurlingHunter</a> system for the Beijing Winter Olympics.</span></p>
   </div>
