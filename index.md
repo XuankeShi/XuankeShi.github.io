@@ -3,14 +3,15 @@ layout: academic
 ---
 
 <section class="academic-profile">
-  <img class="academic-portrait" src="{{ '/shixuanke.jpg' | relative_url }}" alt="Xuanke Shi" width="220" height="293">
   <div class="academic-bio">
+    <p class="academic-overline">About Me</p>
     <h1>Xuanke Shi <span>史璇珂</span></h1>
     <p>I am a Researcher at <strong>SenseTime, Digital World Group</strong>. My research focuses on unified multimodal understanding and generation, controllable image generation, and 3D vision.</p>
     <p>I received my M.Eng. degree from <strong>Zhejiang University</strong> in 2020, advised by <a href="https://person.zju.edu.cn/linzhiwei">R.A. Zhiwei Lin</a>, <a href="https://person.zju.edu.cn/shenhongyao">Prof. Hongyao Shen</a>, and <a href="https://person.zju.edu.cn/0096151">Prof. Jianzhong Fu</a>.</p>
     <p><strong>Research interests:</strong> Unified Multimodal Models · AIGC · Controllable Generation · 3D Vision · Embodied AI</p>
     <p class="academic-contact">Email: <a href="mailto:xuanke_shi@zju.edu.cn">Xuanke_Shi@zju.edu.cn</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=KEf4g50AAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://github.com/XuankeShi">GitHub</a></p>
   </div>
+  <img class="academic-portrait" src="{{ '/shixuanke.jpg' | relative_url }}" alt="Xuanke Shi" width="180" height="240">
 </section>
 
 <section class="academic-section">

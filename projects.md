@@ -9,6 +9,19 @@ Lastest Update: 18th Jan 2025&nbsp;  [中文版本 (Chinese Version)](https://xu
 
 <br>
 
+## [SenseNova-Vision: Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560)
+
+SenseNova-Vision formulates heterogeneous computer-vision tasks in the native text and image generation spaces of a unified multimodal model. A single model supports detection, OCR, keypoint estimation, segmentation, depth estimation, surface-normal prediction, point maps, and camera-pose estimation without task-specific prediction heads.
+
+**Role:** Core Contributor · 2026<br>
+[Paper](https://arxiv.org/abs/2607.06560) · [Code](https://github.com/OpenSenseNova/SenseNova-Vision)
+
+<div align="center">
+  <img src="/images/paper/sensenova-vision.webp" alt="SenseNova-Vision overview">
+</div>
+
+<br>
+
 ## [ConsistCompose](https://opensensenova.github.io/ConsistCompose/)
 We propose ConsistCompose : a novel unified paradigm for multimodal layout control in image composition, which integrates text prompts, reference content, and spatial constraints into a single model to solve layout distortion and identity leakage issues.
 <div align=center>
