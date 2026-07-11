@@ -13,13 +13,12 @@ I am currently a Researcher at SenseTime, Digital World Group. Previously, I rec
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at Xuanke_Shi@zju.edu.cn
 
-## Academic Background
+<!--## Academic Background
 
 - **Sep 2013 - June 2017:** Nanjing University of Aeronautics and Astronautics (B.E.)
 - **Sep 2017 - June 2020:** Zhejiang University (MA.Sc)
-
 <br>
-
+-->
 ---
 
 ## Research Interests
