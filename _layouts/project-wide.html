@@ -1,0 +1,20 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+{% include head.html %}
+</head>
+<body class="page project-wide-page" itemscope itemtype="http://schema.org/WebPage">
+{% include chrome-frame.html %}
+{% include navigation.html %}
+<div id="main" role="main" itemprop="mainContentOfPage">
+  <aside class="article-author-top academic-sidebar" aria-label="Author information">
+    {% include author-bio.html %}
+  </aside>
+  <article class="project-wide-content" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="article-wrap" itemprop="text">{{ content }}</div>
+  </article>
+</div>
+<div class="footer-wrap"><footer>{% include footer.html %}</footer></div>
+{% include scripts.html %}
+</body>
+</html>

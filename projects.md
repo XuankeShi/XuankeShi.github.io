@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project-wide
 permalink: /projects/index.html
 title: Projects
 ---
