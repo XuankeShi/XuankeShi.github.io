@@ -1,5 +1,5 @@
 ---
-layout: project-wide
+layout: page
 permalink: /file/projects-zh/index.html
 title: Publications-zh
 ---
