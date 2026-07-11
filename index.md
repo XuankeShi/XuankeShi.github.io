@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xuanke Shi (史璇珂)**.
 
-<!-- I am currently a Researcher at SenseTime, Digital World Group. Previously, I received my M.Eng. degree from the State Key Laboratory of CAD&CG in Zhejiang University in 2020, advised by [R.A. Zhiwei Lin](https://person.zju.edu.cn/linzhiwei), [Prof. Hongyao Shen](https://person.zju.edu.cn/shenhongyao) and [Prof. Jianzhong Fu](https://person.zju.edu.cn/0096151).  -->
+<!-- I am currently a Researcher at SenseTime Research. Previously, I received my M.Eng. degree from the State Key Laboratory of CAD&CG in Zhejiang University in 2020, advised by [R.A. Zhiwei Lin](https://person.zju.edu.cn/linzhiwei), [Prof. Hongyao Shen](https://person.zju.edu.cn/shenhongyao) and [Prof. Jianzhong Fu](https://person.zju.edu.cn/0096151).  -->
 I am currently a Researcher at SenseTime, Digital World Group. Previously, I received my M.Eng. degree in Zhejiang University in 2020, advised by [R.A. Zhiwei Lin](https://person.zju.edu.cn/linzhiwei), [Prof. Hongyao Shen](https://person.zju.edu.cn/shenhongyao) and [Prof. Jianzhong Fu](https://person.zju.edu.cn/0096151).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at Xuanke_Shi@zju.edu.cn
