@@ -6,9 +6,14 @@
 <body class="page academic-page" itemscope itemtype="http://schema.org/WebPage">
 {% include chrome-frame.html %}
 {% include navigation.html %}
-<main class="academic-main" role="main" itemprop="mainContentOfPage">
-  {{ content }}
-</main>
+<div class="academic-shell">
+  <aside class="academic-sidebar" aria-label="Author information">
+    {% include author-bio.html %}
+  </aside>
+  <main class="academic-main" role="main" itemprop="mainContentOfPage">
+    {{ content }}
+  </main>
+</div>
 <div class="footer-wrap"><footer>{% include footer.html %}</footer></div>
 {% include scripts.html %}
 </body>
