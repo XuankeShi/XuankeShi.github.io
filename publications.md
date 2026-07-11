@@ -16,8 +16,8 @@ title: Publications
     <div class="publication-details">
       <span class="publication-year">2026</span>
       <h2><a href="https://arxiv.org/abs/2607.06560">Vision as Unified Multimodal Generation</a></h2>
-      <p class="publication-authors">Xiaoyang Han, Jianhua Li, Kewang Deng, Zukai Chen, <strong>Xuanke Shi</strong>, Sihan Wang, Boxuan Li, Linyan Wang, Siyi Xie, Xin You, Jinsheng Quan, Zhongang Cai, Haiwen Diao, Ziwei Liu, Lei Yang, Dahua Lin, Quan Wang</p>
-      <p class="publication-venue">Technical Report, 2026</p>
+      <p class="publication-authors">Xiaoyang Han<sup>*</sup>, Jianhua Li<sup>*</sup>, Kewang Deng<sup>*</sup>, Zukai Chen<sup>*</sup>, <strong>Xuanke Shi</strong><sup>*</sup>, Sihan Wang<sup>*</sup>, Boxuan Li<sup>*</sup>, Linyan Wang<sup>*</sup>, Siyi Xie, Xin You, Jinsheng Quan, Zhongang Cai, Haiwen Diao, Ziwei Liu, Lei Yang, Dahua Lin, Quan Wang<sup>*</sup></p>
+      <p class="publication-venue">Technical Report, 2026 · <sup>*</sup> Core Contributors</p>
       <div class="publication-links"><a href="https://arxiv.org/abs/2607.06560">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-Vision">Code</a></div>
     </div>
   </article>
