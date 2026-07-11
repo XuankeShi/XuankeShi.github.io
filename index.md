@@ -5,6 +5,8 @@ layout: academic
 <section class="legacy-intro">
   <h1>About Me</h1>
 
+  <img src="{{ '/shixuanke.jpg' | relative_url }}" class="floatpic" width="360" height="480" alt="Xuanke Shi">
+
   <p>Here is <strong>Xuanke Shi (史璇珂)</strong>.</p>
 
   <p>I am currently a Researcher at <strong>SenseTime Research</strong>. Previously, I received my M.Eng. degree from Zhejiang University in 2020, advised by <a href="https://person.zju.edu.cn/linzhiwei">R.A. Zhiwei Lin</a>, <a href="https://person.zju.edu.cn/shenhongyao">Prof. Hongyao Shen</a>, and <a href="https://person.zju.edu.cn/0096151">Prof. Jianzhong Fu</a>.</p>
