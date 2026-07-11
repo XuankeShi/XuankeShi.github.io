@@ -3,7 +3,7 @@
 <head>
 {% include head.html %}
 </head>
-<body class="page academic-page" itemscope itemtype="http://schema.org/WebPage">
+<body class="page academic-page{% if page.page_class %} {{ page.page_class }}{% endif %}" itemscope itemtype="http://schema.org/WebPage">
 {% include chrome-frame.html %}
 {% include navigation.html %}
 <div class="academic-shell">

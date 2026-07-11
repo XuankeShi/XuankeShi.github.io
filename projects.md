@@ -1,5 +1,6 @@
 ---
 layout: academic
+page_class: projects-page
 permalink: /projects/index.html
 title: Projects
 ---

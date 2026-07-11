@@ -1,5 +1,6 @@
 ---
 layout: academic
+page_class: projects-page
 permalink: /file/projects-zh/index.html
 title: Projects-zh
 ---
