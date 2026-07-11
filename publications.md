@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academic
 permalink: /publications/index.html
 title: Publications
 ---
