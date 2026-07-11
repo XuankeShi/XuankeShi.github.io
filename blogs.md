@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academic
 permalink: /blogs/index.html
 title: Blogs
 ---

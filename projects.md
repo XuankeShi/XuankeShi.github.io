@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: academic
 permalink: /projects/index.html
 title: Projects
 ---
