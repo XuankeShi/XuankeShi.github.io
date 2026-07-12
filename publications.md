@@ -55,7 +55,7 @@ title: Publications
     <div class="publication-details">
       <span class="publication-year">2026</span>
       <h2><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Scaling_Spatial_Intelligence_with_Multimodal_Foundation_Models_CVPR_2026_paper.pdf">Scaling Spatial Intelligence with Multimodal Foundation Models</a></h2>
-      <p class="publication-authors">Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, Yubo Wang, Wanqi Yin, Zhitao Yang, Chen Wei, Tongxi Zhou, Qingping Sun, Hui En Pang, Jiaqi Li, Oscar Qian, Zhiqian Lin, <strong>Xuanke Shi</strong>, Kewang Deng, Xiaoyang Han, Zukai Chen, Xiangyu Fan, Hanming Deng, Lewei Lu, Liang Pan, Bo Li, Ziwei Liu, Quan Wang, Dahua Lin, Lei Yang</p>
+      <p class="publication-authors">Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, et al., <strong>Xuanke Shi</strong>, et al.</p>
       <p class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
       <div class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Scaling_Spatial_Intelligence_with_Multimodal_Foundation_Models_CVPR_2026_paper.pdf">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-SI">Code</a><a href="https://huggingface.co/collections/sensenova/sensenova-si">Hugging Face Space</a><a href="https://easi.lmms-lab.com/leaderboard/">Leaderboard</a></div>
     </div>
