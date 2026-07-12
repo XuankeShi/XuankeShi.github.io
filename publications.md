@@ -44,7 +44,7 @@ title: Publications
       <h2><a href="https://opensensenova.github.io/ConsistCompose/">ConsistCompose: Unified Multimodal Layout Control for Image Composition</a></h2>
       <p class="publication-authors"><strong>Xuanke Shi</strong>, Boxuan Li, Xiaoyang Han, Zhongang Cai, Lei Yang, Dahua Lin, Quan Wang</p>
       <p class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
-      <div class="publication-links"><a href="https://opensensenova.github.io/ConsistCompose/">Project</a><a href="https://arxiv.org/abs/2511.18333">Paper</a><a href="https://github.com/OpenSenseNova/ConsistCompose">Code</a></div>
+      <div class="publication-links"><a href="https://opensensenova.github.io/ConsistCompose/">Project</a><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Shi_ConsistCompose_Unified_Multimodal_Layout_Control_for_Image_Composition_CVPR_2026_paper.pdf">Paper</a><a href="https://github.com/OpenSenseNova/ConsistCompose">Code</a></div>
     </div>
   </article>
 
