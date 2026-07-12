@@ -50,7 +50,7 @@ title: Publications
 
   <article class="publication-item">
     <a class="publication-image" href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Scaling_Spatial_Intelligence_with_Multimodal_Foundation_Models_CVPR_2026_paper.pdf" aria-label="Scaling Spatial Intelligence with Multimodal Foundation Models">
-      <img src="{{ '/images/paper/sensenova_si.webp' | relative_url }}" alt="SenseNova-SI paper preview" loading="lazy">
+      <img src="{{ '/images/paper/sensenova-si.webp' | relative_url }}" alt="SenseNova-SI paper preview" loading="lazy">
     </a>
     <div class="publication-details">
       <span class="publication-year">2026</span>
