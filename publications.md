@@ -18,7 +18,7 @@ title: Publications
       <h2><a href="https://arxiv.org/abs/2607.06560">Vision as Unified Multimodal Generation</a></h2>
       <p class="publication-authors">Xiaoyang Han<sup>*</sup>, Jianhua Li<sup>*</sup>, Kewang Deng<sup>*</sup>, Zukai Chen<sup>*</sup>, <strong>Xuanke Shi</strong><sup>*</sup>, Sihan Wang<sup>*</sup>, Boxuan Li<sup>*</sup>, Linyan Wang<sup>*</sup>, Siyi Xie, Xin You, Jinsheng Quan, Zhongang Cai, Haiwen Diao, Ziwei Liu, Lei Yang, Dahua Lin, Quan Wang<sup>*</sup></p>
       <p class="publication-venue">Technical Report, 2026 · <sup>*</sup> Core Contributors</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2607.06560">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-Vision">Code</a></div>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2607.06560">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-Vision">Code</a><a href="https://huggingface.co/spaces/sensenova/SenseNova-Vision">Demo</a><a href="https://huggingface.co/collections/sensenova/sensenova-vision">Hugging Face Space</a></div>
     </div>
   </article>
 
@@ -31,7 +31,7 @@ title: Publications
       <h2><a href="https://arxiv.org/abs/2605.12500">SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture</a></h2>
       <p class="publication-authors">Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao Bai, Silei Wu, Weichen Fan, et al., <strong>Xuanke Shi</strong>, et al.</p>
       <p class="publication-venue">Technical Report, 2026</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2605.12500">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-U1">Code</a></div>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2605.12500">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-U1">Code</a><a href="https://unify.light-ai.top/">Demo</a><a href="https://huggingface.co/collections/sensenova/sensenova-u1">Hugging Face Space</a></div>
     </div>
   </article>
 
@@ -45,6 +45,19 @@ title: Publications
       <p class="publication-authors"><strong>Xuanke Shi</strong>, Boxuan Li, Xiaoyang Han, Zhongang Cai, Lei Yang, Dahua Lin, Quan Wang</p>
       <p class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
       <div class="publication-links"><a href="https://opensensenova.github.io/ConsistCompose/">Project</a><a href="https://arxiv.org/abs/2511.18333">Paper</a><a href="https://github.com/OpenSenseNova/ConsistCompose">Code</a></div>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <a class="publication-image" href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Scaling_Spatial_Intelligence_with_Multimodal_Foundation_Models_CVPR_2026_paper.pdf" aria-label="Scaling Spatial Intelligence with Multimodal Foundation Models">
+      <img src="{{ '/images/paper/sensenova_si.webp' | relative_url }}" alt="SenseNova-SI paper preview" loading="lazy">
+    </a>
+    <div class="publication-details">
+      <span class="publication-year">2026</span>
+      <h2><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Scaling_Spatial_Intelligence_with_Multimodal_Foundation_Models_CVPR_2026_paper.pdf">Scaling Spatial Intelligence with Multimodal Foundation Models</a></h2>
+      <p class="publication-authors">Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, Yubo Wang, Wanqi Yin, Zhitao Yang, Chen Wei, Tongxi Zhou, Qingping Sun, Hui En Pang, Jiaqi Li, Oscar Qian, Zhiqian Lin, <strong>Xuanke Shi</strong>, Kewang Deng, Xiaoyang Han, Zukai Chen, Xiangyu Fan, Hanming Deng, Lewei Lu, Liang Pan, Bo Li, Ziwei Liu, Quan Wang, Dahua Lin, Lei Yang</p>
+      <p class="publication-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
+      <div class="publication-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Cai_Scaling_Spatial_Intelligence_with_Multimodal_Foundation_Models_CVPR_2026_paper.pdf">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-SI">Code</a><a href="https://huggingface.co/collections/sensenova/sensenova-si">Hugging Face Space</a><a href="https://easi.lmms-lab.com/leaderboard/">Leaderboard</a></div>
     </div>
   </article>
 
