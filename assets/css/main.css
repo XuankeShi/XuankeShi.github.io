@@ -443,3 +443,20 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 /* Keep the English and Chinese Projects pages on the exact same grid. */
 .projects-page .academic-shell{width:100%;max-width:1060px;margin-right:auto;margin-left:auto;box-sizing:border-box}.projects-page .academic-main{width:100%;min-width:0;overflow-x:hidden}.projects-page .academic-main>div[align]{max-width:100%;margin-right:auto;margin-left:auto;text-align:center}.projects-page .academic-main img,.projects-page .academic-main video,.projects-page .academic-main iframe{max-width:100%;box-sizing:border-box}
 @media(max-width:700px){.projects-page .academic-shell{width:100%;padding-right:1.1rem;padding-left:1.1rem}.projects-page .academic-main{width:100%}}
+
+/* Neutral, consistent typography and spacing for both Projects pages. */
+.projects-page .academic-main{color:#3f3f3f;line-height:1.68}
+.projects-page .academic-main>h1{margin:0 0 1.75rem;color:#242424;font-size:2rem;line-height:1.2;letter-spacing:-.02em}
+.projects-page .academic-main>h2{margin:2.8rem 0 1rem;padding-top:1.45rem;border-top:1px solid #d9d9d9;color:#292929;font-size:1.32rem;line-height:1.35}
+.projects-page .academic-main>h2:first-of-type{margin-top:1.5rem}
+.projects-page .academic-main>p{margin:.7rem 0 1rem;line-height:1.68}
+.projects-page .academic-main>ol,.projects-page .academic-main>ul{margin:.8rem 0 1.4rem;padding-left:1.45rem}
+.projects-page .academic-main>ol li,.projects-page .academic-main>ul li{margin:.42rem 0;padding-left:.2rem;line-height:1.58}
+.projects-page .academic-main a{color:#343434;text-decoration:underline;text-decoration-color:#aaa;text-underline-offset:.16em}
+.projects-page .academic-main a:hover{color:#111;text-decoration-color:#333}
+.projects-page .academic-main>h2 a{text-decoration:none}
+.projects-page .academic-main>div[align]{margin-top:1.25rem;margin-bottom:1.25rem}
+.projects-page .academic-main>div[align] img{display:block;width:auto;max-height:560px;margin:0 auto;border:1px solid #e2e2e2;border-radius:3px;background:#fff}
+.projects-page .academic-main iframe{display:block;width:min(100%,760px);margin:0 auto;border:0;border-radius:3px;background:#f2f2f2}
+.projects-page .academic-main strong{color:#2d2d2d}
+@media(max-width:700px){.projects-page .academic-main>h1{font-size:1.7rem}.projects-page .academic-main>h2{margin-top:2.2rem;padding-top:1.15rem;font-size:1.2rem}.projects-page .academic-main>div[align]{margin-top:1rem;margin-bottom:1rem}.projects-page .academic-main iframe{width:100%;height:auto;aspect-ratio:600/366}}
