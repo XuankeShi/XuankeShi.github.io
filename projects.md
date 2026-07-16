@@ -40,7 +40,7 @@ Given a reference image, action video and expression video, generate the corresp
 <br>
 
 <div align=center>
-  <iframe width="600" height="366"  src="/images/projects/vimi.mp4" frameborder="0" allowfullscreen  > </iframe>
+  <video width="600" height="366" src="/images/projects/vimi.mp4" autoplay muted controls playsinline></video>
 </div>
 
 <br>
@@ -55,7 +55,7 @@ At the same time, as a core researcher, I independently completed
 (c) Dynamic local segment video fusion, etc.
 (d) Lightweight small model for mobile terminal
 <div align=center>
-  <iframe width="600" height="356"  src="/images/projects/digitalhuman.mp4" frameborder="0" allowfullscreen  > </iframe>
+  <video width="600" height="356" src="/images/projects/digitalhuman.mp4" autoplay muted controls playsinline></video>
 </div>
 
 <br>
@@ -130,7 +130,7 @@ Avatar automatically pinches faces and automatically generates blendshape. Note 
 Generated avatar is driven by video. Please note that the generated blendshape does not have any cross-mold phenomenon.
 
 <div align=center>
-<iframe width="600" height="265" src="/images/projects/blendshape.mp4" frameborder="0" allowfullscreen> </iframe>
+<video width="600" height="265" src="/images/projects/blendshape.mp4" autoplay muted controls playsinline></video>
 </div>
 
 <br>
