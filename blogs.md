@@ -8,11 +8,7 @@ title: Blogs
 
 ### 2026
 
-- [CVPR 2026 新作：AI 绘画正式迈入「所控即所得」时代](https://xuankeshi.github.io/blogs/consistcompose/)
-
-### 2024
-
-- 未完待续...
+- <time datetime="2026-07-05">2026-07-05</time> · [CVPR 2026 新作：AI 绘画正式迈入「所控即所得」时代](https://xuankeshi.github.io/blogs/consistcompose/)
 
 ### 2023
 
@@ -20,7 +16,7 @@ title: Blogs
 
 ### 2022
 
-- [体育史上首个合法「AI外挂」！北京冬奥「猎壶者」决策仅需9毫秒，误差仅3cm](https://xuankeshi.github.io/blogs/curlinghunter/)
+- <time datetime="2022-10-22">2022-10-22</time> · [体育史上首个合法「AI外挂」！北京冬奥「猎壶者」决策仅需9毫秒，误差仅3cm](https://xuankeshi.github.io/blogs/curlinghunter/)
 
 <!-- 
 ### 2024
