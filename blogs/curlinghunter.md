@@ -79,7 +79,7 @@ CurlingHunter主要由三个模块组成：单相机跟踪与视觉定位（图2
 
 - 此外，CurlingHunter为进一步扩展到其他的体育运动及应用到跨相机多目标追踪的学术研究提供了一个新的平台。
 
-## **Media Reports**
+## **媒体报道**
 
 [CCTV5](https://2022.cctv.com/2022/03/02/VIDEo6c7b8tv2DhGSIeAwrnY220302.shtml) | 
 [CCTV10](https://tv.cctv.com/2022/02/17/VIDEYNtTNJj9Jkbg0HD0hMME220217.shtml?spm=C53121759377.PvNzMjwOU8x4.0.0) |

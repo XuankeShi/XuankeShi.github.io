@@ -6,6 +6,10 @@ title: Blogs
 
 ## Chinese Blogs
 
+### 2026
+
+- [CVPR 2026 新作：AI 绘画正式迈入「所控即所得」时代](https://xuankeshi.github.io/blogs/consistcompose/)
+
 ### 2024
 
 - 未完待续...
