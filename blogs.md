@@ -7,6 +7,7 @@ page_class: blogs-page
 
 <h2 class="blog-section-title">Chinese Blogs</h2>
 
+- <time datetime="2026-07-18">2026-07-18</time> · [视觉任务能否被统一成一种生成接口？——SenseNova-Vision 论文解读](https://xuankeshi.github.io/blogs/sensenova-vision/)
 - <time datetime="2026-07-05">2026-07-05</time> · [CVPR 2026 新作：AI 绘画正式迈入「所控即所得」时代](https://xuankeshi.github.io/blogs/consistcompose/)
 - <time datetime="2023">2023</time> · [28岁, 何妨吟啸且徐行](https://xuankeshi.github.io/blogs/28years/)
 - <time datetime="2022-10-22">2022-10-22</time> · [体育史上首个合法「AI外挂」！北京冬奥「猎壶者」决策仅需9毫秒，误差仅3cm](https://xuankeshi.github.io/blogs/curlinghunter/)
