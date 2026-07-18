@@ -23,6 +23,76 @@ layout: academic
   <p>My current research focuses on AIGC. I wish to devote my talent to this meaningful cause and bring well-being to society.</p>
 </section>
 
+<section class="academic-section travel-section" aria-labelledby="travel-title">
+  <header class="academic-section-header travel-heading">
+    <div>
+      <p class="travel-kicker">Places that shaped the journey</p>
+      <h2 id="travel-title">Travel &amp; Footprints</h2>
+    </div>
+    <p class="travel-hint">Drag to explore · Hover over a light</p>
+  </header>
+
+  <p class="travel-intro">A small visual record of the cities connected to my study, work, and projects.</p>
+
+  <div class="travel-card" data-travel-map>
+    <div class="travel-globe-wrap">
+      <svg class="travel-globe" role="img" aria-labelledby="travel-map-title travel-map-desc"></svg>
+      <span id="travel-map-title" class="screen-reader-text">Interactive world map of Xuanke Shi's footprints</span>
+      <span id="travel-map-desc" class="screen-reader-text">Drag the globe or select a city below to explore highlighted places.</span>
+      <div class="travel-tooltip" role="status" aria-live="polite" hidden></div>
+      <p class="travel-loading">Drawing the world…</p>
+    </div>
+
+    <div class="travel-place-list" aria-label="Highlighted places"></div>
+
+    <div class="travel-legend" aria-label="Map legend">
+      <span><i class="travel-legend-swatch travel-legend-visited"></i>Visited / lived</span>
+      <span><i class="travel-legend-swatch travel-legend-light"></i>Highlighted city</span>
+      <span><i class="travel-legend-swatch travel-legend-unmarked"></i>Not marked</span>
+    </div>
+  </div>
+</section>
+
+<script type="application/json" id="travel-map-data">
+[
+  {"id":"hangzhou","name":"Hangzhou","detail":"Study · Zhejiang University","coordinates":[120.1551,30.2741],"countryId":"156","status":"visited"},
+  {"id":"shanghai","name":"Shanghai","detail":"Work · SenseTime Research","coordinates":[121.4737,31.2304],"countryId":"156","status":"visited"},
+  {"id":"beijing","name":"Beijing","detail":"Project · Winter Olympics","coordinates":[116.4074,39.9042],"countryId":"156","status":"visited"},
+  {"id":"chongqing","name":"Chongqing","detail":"Chongqing · China","coordinates":[106.5516,29.5630],"countryId":"156","status":"visited"},
+  {"id":"mianyang","name":"Mianyang","detail":"Sichuan · China","coordinates":[104.6796,31.4675],"countryId":"156","status":"visited"},
+  {"id":"guiyang","name":"Guiyang","detail":"Guizhou · China","coordinates":[106.6302,26.6470],"countryId":"156","status":"visited"},
+  {"id":"libo","name":"Libo","detail":"Guizhou · China","coordinates":[107.8800,25.4153],"countryId":"156","status":"visited"},
+  {"id":"anshun","name":"Anshun","detail":"Guizhou · China","coordinates":[105.9476,26.2531],"countryId":"156","status":"visited"},
+  {"id":"nanchang","name":"Nanchang","detail":"Jiangxi · China","coordinates":[115.8579,28.6820],"countryId":"156","status":"visited"},
+  {"id":"nanjing","name":"Nanjing","detail":"Jiangsu · China","coordinates":[118.7969,32.0603],"countryId":"156","status":"visited"},
+  {"id":"suzhou","name":"Suzhou","detail":"Jiangsu · China","coordinates":[120.5853,31.2989],"countryId":"156","status":"visited"},
+  {"id":"wuxi","name":"Wuxi","detail":"Jiangsu · China","coordinates":[120.3119,31.4912],"countryId":"156","status":"visited"},
+  {"id":"changzhou","name":"Changzhou","detail":"Jiangsu · China","coordinates":[119.9741,31.8112],"countryId":"156","status":"visited"},
+  {"id":"zhenjiang","name":"Zhenjiang","detail":"Jiangsu · China","coordinates":[119.4258,32.1878],"countryId":"156","status":"visited"},
+  {"id":"yangzhou","name":"Yangzhou","detail":"Jiangsu · China","coordinates":[119.4127,32.3942],"countryId":"156","status":"visited"},
+  {"id":"linfen","name":"Linfen","detail":"Shanxi · China","coordinates":[111.5190,36.0880],"countryId":"156","status":"visited"},
+  {"id":"taiyuan","name":"Taiyuan","detail":"Shanxi · China","coordinates":[112.5489,37.8706],"countryId":"156","status":"visited"},
+  {"id":"yuncheng","name":"Yuncheng","detail":"Shanxi · China","coordinates":[111.0075,35.0264],"countryId":"156","status":"visited"},
+  {"id":"ningbo","name":"Ningbo","detail":"Zhejiang · China","coordinates":[121.5503,29.8746],"countryId":"156","status":"visited"},
+  {"id":"qingdao","name":"Qingdao","detail":"Shandong · China","coordinates":[120.3826,36.0671],"countryId":"156","status":"visited"},
+  {"id":"jinan","name":"Jinan","detail":"Shandong · China","coordinates":[117.1205,36.6512],"countryId":"156","status":"visited"},
+  {"id":"dalian","name":"Dalian","detail":"Liaoning · China","coordinates":[121.6147,38.9140],"countryId":"156","status":"visited"},
+  {"id":"harbin","name":"Harbin","detail":"Heilongjiang · China","coordinates":[126.6425,45.7567],"countryId":"156","status":"visited"},
+  {"id":"wuhai","name":"Wuhai","detail":"Inner Mongolia · China","coordinates":[106.8256,39.6737],"countryId":"156","status":"visited"},
+  {"id":"shizuishan","name":"Shizuishan","detail":"Ningxia · China","coordinates":[106.3762,39.0133],"countryId":"156","status":"visited"},
+  {"id":"alxa","name":"Alxa","detail":"Inner Mongolia · China","coordinates":[105.7064,38.8448],"countryId":"156","status":"visited"},
+  {"id":"yinchuan","name":"Yinchuan","detail":"Ningxia · China","coordinates":[106.2309,38.4872],"countryId":"156","status":"visited"},
+  {"id":"zhangjiakou","name":"Zhangjiakou","detail":"Hebei · China","coordinates":[114.8859,40.7689],"countryId":"156","status":"visited"},
+  {"id":"quzhou","name":"Quzhou","detail":"Zhejiang · China","coordinates":[118.8595,28.9701],"countryId":"156","status":"visited"},
+  {"id":"shaoxing","name":"Shaoxing","detail":"Zhejiang · China","coordinates":[120.5821,30.0515],"countryId":"156","status":"visited"},
+  {"id":"hefei","name":"Hefei","detail":"Anhui · China","coordinates":[117.2272,31.8206],"countryId":"156","status":"visited"},
+  {"id":"huangshan","name":"Huangshan","detail":"Anhui · China","coordinates":[118.3376,29.7147],"countryId":"156","status":"visited"}
+]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js" defer></script>
+<script src="{{ '/assets/js/travel-map.js' | relative_url }}" defer></script>
+
 <section class="academic-section">
   <header class="academic-section-header">
     <h2>Selected Research</h2>
