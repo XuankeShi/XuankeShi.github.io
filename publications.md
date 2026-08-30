@@ -55,7 +55,7 @@ title: Publications
     <div class="publication-details">
       <span class="publication-year">2026</span>
       <h2><a href="https://arxiv.org/abs/2605.12500">SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture</a></h2>
-      <p class="publication-authors">Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao Bai, Silei Wu, Weichen Fan, et al., <strong>Xuanke Shi</strong>, et al.</p>
+      <p class="publication-authors">Haiwen Diao, Penghao Wu, Hanming Deng, Jiahao Wang, Shihao Bai, et al., <strong>Xuanke Shi</strong>, et al.</p>
       <p class="publication-venue">Technical Report, 2026</p>
       <div class="publication-links"><a href="https://arxiv.org/abs/2605.12500">Paper</a><a href="https://github.com/OpenSenseNova/SenseNova-U1">Code</a><a href="https://unify.light-ai.top/">Demo</a><a href="https://huggingface.co/collections/sensenova/sensenova-u1">Hugging Face</a></div>
     </div>
