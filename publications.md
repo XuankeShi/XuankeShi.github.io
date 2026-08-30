@@ -24,7 +24,7 @@ title: Publications
 
   <article class="publication-item">
     <a class="publication-image" href="https://arxiv.org/abs/2608.14138" aria-label="SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation">
-      <img src="{{ '/images/paper/spargen-spatial-output.webp' | relative_url }}" alt="SPARGen spatial perception and generation outputs" loading="lazy">
+      <img src="{{ '/images/paper/spargen.webp' | relative_url }}" alt="SPARGen spatial perception and generation outputs" loading="lazy">
     </a>
     <div class="publication-details">
       <span class="publication-year">2026</span>
