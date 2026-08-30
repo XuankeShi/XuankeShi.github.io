@@ -10,6 +10,32 @@ title: Publications
 
 <div class="publication-list">
   <article class="publication-item">
+    <a class="publication-image" href="https://arxiv.org/pdf/2608.24119" aria-label="TransPhy: Visual In-Context Learning for Physically Grounded Image Editing">
+      <img src="{{ '/images/paper/transphy.webp' | relative_url }}" alt="TransPhy qualitative image-editing results" loading="lazy">
+    </a>
+    <div class="publication-details">
+      <span class="publication-year">2026</span>
+      <h2><a href="https://arxiv.org/pdf/2608.24119">TransPhy: Visual In-Context Learning for Physically Grounded Image Editing</a></h2>
+      <p class="publication-authors">Siyi Xie, <strong>Xuanke Shi</strong>, Jinsheng Quan, Haoran Tang, Zukai Chen, Lei Yang, Quan Wang</p>
+      <p class="publication-venue">arXiv preprint, 2026</p>
+      <div class="publication-links"><a href="https://arxiv.org/pdf/2608.24119">Paper</a></div>
+    </div>
+  </article>
+
+  <article class="publication-item">
+    <a class="publication-image" href="https://arxiv.org/abs/2608.14138" aria-label="SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation">
+      <img src="{{ '/images/paper/spargen-spatial-output.webp' | relative_url }}" alt="SPARGen spatial perception and generation outputs" loading="lazy">
+    </a>
+    <div class="publication-details">
+      <span class="publication-year">2026</span>
+      <h2><a href="https://arxiv.org/abs/2608.14138">SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation</a></h2>
+      <p class="publication-authors">Jinsheng Quan, Jianhua Li, Siyi Xie, <strong>Xuanke Shi</strong>, Kewang Deng, Zukai Chen, Feifei Shao, Lei Yang, Quan Wang, Yawei Luo</p>
+      <p class="publication-venue">arXiv preprint, 2026</p>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2608.14138">Paper</a></div>
+    </div>
+  </article>
+
+  <article class="publication-item">
     <a class="publication-image" href="https://arxiv.org/abs/2607.06560" aria-label="Vision as Unified Multimodal Generation">
       <img src="{{ '/images/paper/sensenova-vision.webp' | relative_url }}" alt="SenseNova-Vision paper preview" loading="lazy">
     </a>
