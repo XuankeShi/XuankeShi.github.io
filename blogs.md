@@ -12,38 +12,46 @@ page_class: blogs-page
 - <time datetime="2023">2023</time> · [28岁, 何妨吟啸且徐行](https://xuankeshi.github.io/blogs/28years/)
 - <time datetime="2022-10-22">2022-10-22</time> · [体育史上首个合法「AI外挂」！北京冬奥「猎壶者」决策仅需9毫秒，误差仅3cm](https://xuankeshi.github.io/blogs/curlinghunter/)
 
-<h2 class="blog-section-title">Paper Reading</h2>
+<h2 class="blog-section-title" id="paper-reading">Paper Reading</h2>
 
-论文阅读笔记主要围绕统一多模态模型、视觉理解与生成、多模态推理等方向持续整理。<a class="paper-reading-source" href="https://app.notion.com/p/Paper-Reading-3401baf34fa580d3aa11c9f4f7208db2">Notion 完整索引 ↗</a>
+论文阅读笔记主要围绕统一多模态模型、视觉理解与生成、空间智能、多模态推理等方向持续整理。<a class="paper-reading-source" href="https://aboard-hurricane-478.notion.site/Paper-Reading-3401baf34fa580d3aa11c9f4f7208db2">Notion 完整索引 ↗</a>
 
-<p class="paper-topic">统一理解与生成</p>
+<p class="paper-topic">统一多模态架构</p>
 
 - [统一理解生成视觉编码器](https://aboard-hurricane-478.notion.site/3401baf34fa5818887edc472072c60ec)
 - [多模态理解生成对齐—生成架构](https://aboard-hurricane-478.notion.site/3401baf34fa581a3a7a9c1487baab8a7)
 - [原生多模态](https://aboard-hurricane-478.notion.site/34c1baf34fa580148c2fc3890b2646b2)
 - [多模态图像视频生成](https://aboard-hurricane-478.notion.site/3401baf34fa581889029de7a765d70a6)
+- [Pixel Diffusion](https://aboard-hurricane-478.notion.site/38f1baf34fa58056a7b6c67c3edf7476)
 
-<p class="paper-topic">多模态推理与表示</p>
-
-- [UMM 表征学习](https://aboard-hurricane-478.notion.site/UMM-3461baf34fa580d5baa5f1ea0eba9e5a)
-- [多模态 Reasoning](https://aboard-hurricane-478.notion.site/Reasoning-3421baf34fa580dcab10c35c1aeecb5a)
-- [通用 UMM 任务](https://aboard-hurricane-478.notion.site/UMM-3441baf34fa580079fe7c9a08b89bcfd)
-- [多模态理解](https://aboard-hurricane-478.notion.site/3981baf34fa580b793dac88cf3562b30)
-
-<p class="paper-topic">视觉任务与模型机制</p>
+<p class="paper-topic">视觉任务与空间智能</p>
 
 - [多模态基础视觉任务](https://aboard-hurricane-478.notion.site/35a1baf34fa580c9a3c0c5add0cfaec0)
-- [VICL：视觉上下文学习](https://aboard-hurricane-478.notion.site/VICL-3481baf34fa580eca8faf48791539176)
-- [跨层 Attention 机制（层间）改进](https://aboard-hurricane-478.notion.site/Attention-3591baf34fa580ea975bc630b10a6046)
+- [通用 UMM 任务](https://aboard-hurricane-478.notion.site/3441baf34fa580079fe7c9a08b89bcfd)
+- [多模态理解](https://aboard-hurricane-478.notion.site/3981baf34fa580b793dac88cf3562b30)
+- [VICL：视觉上下文学习](https://aboard-hurricane-478.notion.site/3481baf34fa580eca8faf48791539176)
+- [3D 视觉任务](https://aboard-hurricane-478.notion.site/3761baf34fa580329b46cd7b08a4204d)
+
+<p class="paper-topic">推理、对齐与思维链</p>
+
+- [UMM 表征学习](https://aboard-hurricane-478.notion.site/3461baf34fa580d5baa5f1ea0eba9e5a)
+- [多模态 Reasoning](https://aboard-hurricane-478.notion.site/3421baf34fa580dcab10c35c1aeecb5a)
+- [COT 思维链（VLM 理解）](https://aboard-hurricane-478.notion.site/3a61baf34fa580b38e31eb205010fdba)
+- [COT 思维链（生成）](https://aboard-hurricane-478.notion.site/3af1baf34fa580e5a47cc21a5715ccbc)
+- [RLHF](https://aboard-hurricane-478.notion.site/3a31baf34fa580ee8f08f792ff530fd8)
+
+<p class="paper-topic">模型机制与训练</p>
+
+- [跨层 Attention 机制（层间）改进](https://aboard-hurricane-478.notion.site/3591baf34fa580ea975bc630b10a6046)
 - [模型权重融合](https://aboard-hurricane-478.notion.site/35d1baf34fa580a79e0de56ba58b307b)
 - [大模型基础理论](https://aboard-hurricane-478.notion.site/3521baf34fa580e98c16c955533ce347)
+- [Looped Transformers](https://aboard-hurricane-478.notion.site/3d21baf34fa580189a13d99de432c504)
+- [Test Time Training](https://aboard-hurricane-478.notion.site/3d21baf34fa580eba76fc14928f3ecfc)
 
-<p class="paper-topic">生成、3D 与世界模型</p>
+<p class="paper-topic">生成加速与世界模型</p>
 
-- [3D 视觉任务](https://aboard-hurricane-478.notion.site/3D-3761baf34fa580329b46cd7b08a4204d)
 - [扩散模型加速](https://aboard-hurricane-478.notion.site/3781baf34fa5800b8d42d50dc7ee3ebf)
 - [世界模型](https://aboard-hurricane-478.notion.site/38b1baf34fa5803ab2d4e883a6348ab5)
-- [Pixel Diffusion](https://aboard-hurricane-478.notion.site/Pixel-Diffusion-38f1baf34fa58056a7b6c67c3edf7476)
 
 <!-- 
 ### 2024
